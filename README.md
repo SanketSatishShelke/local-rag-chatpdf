@@ -67,7 +67,3 @@ View responses directly in the chat interface.
 ```bash
 streamlit run app.py
 ```
-
-## 📜 License
-
-This project is licensed under the MIT License.

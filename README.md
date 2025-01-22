@@ -56,7 +56,7 @@ ollama pull mistral
 
 Run the following command to launch the application:
 ```bash
-streamlit run app.py
+streamlit run local_rag_UI.py
 ```
 
 ### 2.  Interact with the Chat

@@ -63,6 +63,3 @@ streamlit run app.py
 Upload a PDF file via the interface.
 Ask questions about the document's content.
 View responses directly in the chat interface.
-```bash
-streamlit run app.py
-```

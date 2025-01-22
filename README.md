@@ -1,7 +1,6 @@
 # ChatPDF: A Local RAG System for Querying PDFs
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-v1.0-brightgreen)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-orange)](https://www.python.org/)
 
 **ChatPDF** is a local **Retrieval-Augmented Generation (RAG)** system designed to query PDF documents. It combines a local vector database (**ChromaDB**) and a language model (**Ollama models like Vicuna**) to provide fast, accurate, and private answers based on document content.
